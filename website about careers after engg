@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Careers After Engineering</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Careers After Engineering</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">In-demand jobs</a>
+      <a href="#">How to prepare</a>
+      <a href="#">Success stories</a>
+      <a href="#">Blog</a>
+      <a href="#">Forum</a>
+      <a href="#">Events</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Introduction</h2>
+    <p>This website provides information about the different career options available to engineers.</p>
+    <p>We list the in-demand jobs for the future, along with information about the skills and qualifications required for these jobs.</p>
+    <p>We also provide tips on how to prepare for a career in the in-demand jobs, and stories from people who have successfully transitioned to in-demand careers.</p>
+    <p>Finally, we have a blog section where you can share your thoughts and experiences about future career options, and a forum where you can ask questions and get advice from others.</p>
+    <h2>In-demand jobs</h2>
+    <ul>
+      <li>Data scientist</li>
+      <li>Software developer</li>
+      <li>Cyber security expert</li>
+      <li>Machine learning engineer</li>
+      <li>Blockchain engineer</li>
+      <li>UI/UX designer</li>
+      <li>Product manager</li>
+      <li>Project manager</li>
+      <li>Business analyst</li>
+      <li>Sales engineer</li>
+    </ul>
+    <h2>How to prepare</h2>
+    <ul>
+      <li>Get a degree in engineering</li>
+      <li>Gain relevant work experience</li>
+      <li>Develop your skills</li>
+      <li>Network with people in your field</li>
+      <li>Stay up-to-date on the latest trends</li>
+    </ul>
+    <h2>Success stories</h2>
+    <p>Here are some stories from people who have successfully transitioned to in-demand careers after engineering:</p>
+    <p>"I was a mechanical engineer, but I always wanted to work in data science. So I took some online courses and got a certificate in data science. Then I started applying for jobs, and I eventually got a job as a data scientist at a tech company."</p>
+    <p>"I was an electrical engineer, but I wanted to work in cyber security. So I took some security courses and got a certification in cyber security. Then I started volunteering at a non-profit that helps organizations protect themselves from cyber attacks. Eventually, I got a job as a cyber security analyst at a bank."</p>
+    <p>"I was a civil engineer, but I wanted to work in product management. So I took some business courses and got an MBA. Then I started working as a product manager at a software company. I love my job because I get to use my engineering skills to solve real-world problems."</p>
+    <h2>Blog</h2>
+    <p>This section allows users to share their thoughts and experiences about future career options.</p>
+    <h2>Forum</h2>
+    <p>This section allows users to ask questions and get advice from others.</p>
+    <h2>Events</h2>
+    <p>This page promotes events and workshops related to future career options.</p>
+  </main>
+  <footer>
+    <p>Copyright © 2023 Careers After Engineering</p>
+  </footer>
+</body>
+</html>
